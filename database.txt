@@ -1,0 +1,8 @@
+First Blog Post
+This is the content of the first blog post. It can be as long as you want.
+---
+Second Blog Post
+This is the content of the second blog post. You can add more posts by following the same format.
+---
+Third Blog Post
+Here is another blog post. You can keep adding posts by separating them with '---'.
